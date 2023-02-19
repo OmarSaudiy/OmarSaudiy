@@ -7,7 +7,7 @@ Hello, I'm Omar Ahmed!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Embedded+Software+Engineer+;Communication+&+Electronics+Department;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Embedded+Software+Engineer;Communication+&+Electronics+Department;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 
@@ -47,6 +47,8 @@ Hello, I'm Omar Ahmed!
   <a href="https://www.github.com/OmarSaudiy"><img src="https://img.icons8.com/fluency/50/000000/github.png"/><a/>
   <a href="https://www.facebook.com/mero.king.3139241"><img src="https://icons8.com/icon/yGcWL8copNNQ/facebook"/><a/>
 </p>
+<br/>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
 <img src="https://imgur.com/rilHVxA.png"/>
