@@ -31,8 +31,8 @@ Hello, I'm Omar Ahmed!
 
 - 🔧 &nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![IAR Workbench](https://icons8.com/icon/oaoTa6nA7qv3/embedded)
-![KEIL Workbench ](https://icons8.com/icon/7sBo2crTxqoC/chip)
+![IAR Workbench](https://user-images.githubusercontent.com/123242381/219985321-00397d9d-3437-4eaa-bb33-4a7e669ce86a.jpg)
+![KEIL Workbench ](https://user-images.githubusercontent.com/123242381/219985568-a0a8e72e-1abb-43ad-bd18-e6ed27d89a65.svg)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
@@ -45,7 +45,8 @@ Hello, I'm Omar Ahmed!
  <p align="center">
   <a href="https://www.linkedin.com/in/omarsaudiy/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/><a/>
   <a href="https://www.github.com/OmarSaudiy"><img src="https://img.icons8.com/fluency/50/000000/github.png"/><a/>
-  <a href="https://www.facebook.com/mero.king.3139241"><img src="https://icons8.com/icon/yGcWL8copNNQ/facebook"/><a/>
+  <a href="https://myaccount.google.com/u/3/?hl=en&utm_source=OGB&utm_medium=act&pli=1"><img src="https://user-images.githubusercontent.com/123242381/219985057-068d08b9-908b-4051-a906-8bc51981d27f.svg"/><a/>
+  <a href="https://www.facebook.com/mero.king.3139241"><img src="https://user-images.githubusercontent.com/123242381/219985172-eaf7cae2-fbee-4ef4-aad2-2fcdd71a5e35.png"/><a/>
 </p>
 <br/>
 
