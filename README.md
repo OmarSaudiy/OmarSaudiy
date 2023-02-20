@@ -31,8 +31,8 @@ Hello, I'm Omar Ahmed!
 
 - 🔧 &nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![IAR Workbench](https://user-images.githubusercontent.com/123242381/219986863-c86cd4b6-88ea-4706-b58f-7212734e3f4b.png)
-![KEIL Workbench ](https://user-images.githubusercontent.com/123242381/219986737-e05fee73-3417-462e-83c6-a573d1927b32.png)
+![IAR Workbench]
+![KEIL Workbench ]
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
@@ -40,7 +40,7 @@ Hello, I'm Omar Ahmed!
 <br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h3>  Contacts Info:</h3>
+<h3>  Social:</h3>
 
  <p align="center">
   <a href="https://www.linkedin.com/in/omarsaudiy/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/><a/>
