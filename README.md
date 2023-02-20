@@ -9,7 +9,6 @@ Hello, I'm Omar Ahmed!
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Embedded+Software+Engineer;Communication+And+Electronics+Department;Always%20learning%20new%20things&center=true&width=450&height=45"></a>
 </p>
-<hr/>
 
 #
   <p align="center"> If you can dream it, you can do it🔥 </p>
@@ -31,8 +30,6 @@ Hello, I'm Omar Ahmed!
 
 - 🔧 &nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![IAR Workbench]
-![KEIL Workbench ]
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
