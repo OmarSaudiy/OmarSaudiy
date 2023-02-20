@@ -37,7 +37,7 @@ Hello, I'm Omar Ahmed!
 <br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h3>  Social:</h3>
+<h3> ✨ Social:</h3>
 
  <p align="center">
   <a href="https://www.linkedin.com/in/omarsaudiy/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/><a/>
@@ -47,6 +47,13 @@ Hello, I'm Omar Ahmed!
 </p>
 <br/>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3> 📊 Profile stats
+
+[![Omar Saudi 's github stats](https://github-readme-stats.vercel.app/api?username=OmarSaudiy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/OmarSaudiy/github-readme-stats)
+</p>
+<br/>
+    
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
 <img src="https://imgur.com/rilHVxA.png"/>
