@@ -37,11 +37,10 @@ Hello, I'm Omar Ahmed!
 <br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h3> ✨ Social</h3>
+<h3> ✨ Contacts</h3>
 
  <p align="center">
   <a href="https://www.linkedin.com/in/omarsaudiy/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/><a/>
-  <a href="https://www.github.com/OmarSaudiy"><img src="https://img.icons8.com/fluency/50/000000/github.png"/><a/>
   <a href="https://mail.google.com/mail/u/3/#inbox?compose=GTvVlcSHxTblstmTtvhnQSVWlrsChCcNfgDHWzlWpGxZncMmLpdXDwXjWgmQFsqqlPZDHgpkKBNfk"><img src="https://user-images.githubusercontent.com/123242381/219986585-acbd74de-6225-4eb5-b59b-25a39808176a.svg"/><a/>
 </p>
 <br/>
