@@ -18,19 +18,27 @@ Hello, I'm Omar Ahmed!
 
 
 - 💻 &nbsp;
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-C-333333?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 - 🔧 &nbsp;
+![Editor](https://img.shields.io/badge/-Editor-333333?style=flat&logo=stackedit&logoColor=606060)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![GMake](https://img.shields.io/badge/-Make-333333?style=flat&logo=cmake&logoColor=064F8C)
+
+
+- 🔧 &nbsp;
+![ARM](https://img.shields.io/badge/ARM-333333?style=flat&logo=arm&logoColor=0091BD)
+![STMicroelectronics](https://img.shields.io/badge/-STMicroelectronics-333333?style=flat&logo=stmicroelectronics&logoColor=03234B)
+![Raspberrypi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberrypi&logoColor=A22846)
 
 
   
