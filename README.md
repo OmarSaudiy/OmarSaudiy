@@ -19,8 +19,8 @@ Hello, I'm Omar Ahmed!
 
 - 🌐 &nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat-square&logo=c&logoColor=A8B9CC)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
