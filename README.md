@@ -46,7 +46,7 @@ Hello, I'm Omar Ahmed!
 ![STMicroelectronics](https://img.shields.io/badge/-STMicroelectronics-333333?style=flat&logo=stmicroelectronics&logoColor=03234B)
 ![Raspberrypi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberrypi&logoColor=A22846)
 ![AVR](https://img.shields.io/badge/AVR-333333?style=flat&logo=avr&logoColor=0A9EDC)
-![TI](https://img.shields.io/badge/Texus%20Instruments-333333?style=flat&logo=Texus%20Instruments&logoColor=BD1C2B)
+![TI](https://img.shields.io/badge/Texas%20Instruments-333333?style=flat&logo=Texas%20Instruments&logoColor=BD1C2B)
 
 
 
